@@ -4,9 +4,9 @@ This is a simple landing page project called **Excursion**, built using **HTML**
 
 🚀 [Live Demo](https://sai-veerendra.github.io/Excursion-Project/)
 
-## 📸 Preview
+## 🖼️ Preview
 
-🎯 ![Original Codecademy Preview](https://content.codecademy.com/programs/freelance-one/excursion/index.html)
+🎯 [Original Codecademy Preview](https://content.codecademy.com/programs/freelance-one/excursion/index.html)
 
 ## 🛠️ Technologies Used
 
@@ -16,7 +16,7 @@ This is a simple landing page project called **Excursion**, built using **HTML**
 
 ## 📁 Folder Structure
 
-Excursion-Project/
+```Excursion-Project/
 │
 ├── index.html
 └── resources/
@@ -27,9 +27,9 @@ Excursion-Project/
 │ └── phone.webp
 └── videos/
 └── excursion.mp4
+```
 
-
-## 📌 Features
+## ✨ Features
 
 - Responsive landing page layout
 - Embedded background video
