@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  margin-top: 40px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  margin-top: 40px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.download-link {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+  display: inline-block;
+  margin: 20px 0;
+}
+
+video {
+  width: 80%;
+  max-width: 400px;
+}
+
+img {
+  width: 80%;
+  max-width: 900px;
+  margin: 20px auto;
+  display: block;
+}
+
+.app-icon {
+  width: 60px;
+  margin: 30px auto;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
+  padding: 20px;
+}
